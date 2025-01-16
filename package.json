@@ -1,0 +1,25 @@
+{
+  "name": "typescript-vizsga-po2024",
+  "version": "1.0.0",
+  "description": "Rendezvény Kezelő Rendszer",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobiii12/typescript-vizsga-po2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobiii12/typescript-vizsga-po2024/issues"
+  },
+  "homepage": "https://github.com/kobiii12/typescript-vizsga-po2024#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
