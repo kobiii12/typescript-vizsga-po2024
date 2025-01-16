@@ -1,0 +1,1 @@
+# typescript-vizsga-po2024
